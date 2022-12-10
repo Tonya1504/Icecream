@@ -57,7 +57,7 @@
 
 .div-block {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .title-block {
@@ -75,10 +75,7 @@
     flex-direction: row;
 }
 
-.image-rizhok {
-    width: 456px;
-    height: 560px
-}
+.image-rizhok {}
 
 .products-section {
 
